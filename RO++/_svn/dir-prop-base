@@ -1,0 +1,20 @@
+K 14
+bugtraq:number
+V 4
+true
+K 10
+svn:ignore
+V 128
+*.user
+ARM
+Debug
+Debug.Win32
+Debug_2010
+Debug_2012
+RO++.vcproj.SELDON.Gold.user
+Release
+Release.Win32
+Release_2010
+Release_2012
+
+END

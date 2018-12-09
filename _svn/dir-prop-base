@@ -1,0 +1,34 @@
+K 10
+svn:ignore
+V 524
+*.ncb
+*.opensdf
+*.sdf
+*.suo
+ActFileFormatFix.html
+ActFileFormatFix_archivos
+Debug
+RO++.ncb
+RO++.suo
+RO++_2010.suo
+Release
+UpgradeLog.XML
+UpgradeLog.htm
+_UpgradeReport_Files
+ragnarok_FORMAT_rsx.txt
+ragnarok_act_FORMAT.txt
+ragnarok_act_FORMATv1.txt
+ragnarok_act_FORMATv2.txt
+ragnarok_grf_alpha_format.txt
+ragnarok_imf_format.txt
+ragnarok_rma_format.txt
+ragnarok_rsm_format.txt
+ragnarok_rsw_format.cpp
+ragnarok_rsw_format.h
+ragnarok_rsw_format.txt
+ragnarok_rsx_format.txt
+ragnarok_str_format.txt
+ragnarok_toc_format.js
+spr.htm
+
+END
